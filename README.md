@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![calculadora_react](https://user-images.githubusercontent.com/32987989/151467040-e951b6b7-12ad-404c-aef5-68bfd0920fdc.jpg)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
